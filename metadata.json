@@ -1,0 +1,7 @@
+{
+  "uuid": "wallpaper-hook@shishka",
+  "name": "Wallpaper Hook",
+  "description": "Runs a script when wallpaper changes",
+  "shell-version": ["45", "46"],
+  "version": 1
+}
